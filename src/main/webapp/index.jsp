@@ -18,7 +18,7 @@
         <img src="C:\Users\loera\Desktop\marketful\carpeta.png"      
          width="600"
          height="390">
-    <h2>3.-Despues nos vamos a propiedades del sistema y ingresamos en el apartado de configuración avanzada del sistema</h2>
+    <h2>3.-Despues nos vamos a propiedades del sistema y ingresamos en el apartado de configuracion avanzada del sistema</h2>
     <img src="C:\Users\loera\Desktop\marketful\avanzada.png"      
          width="600"
          height="390">
