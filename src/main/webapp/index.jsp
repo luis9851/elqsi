@@ -6,8 +6,8 @@
 </head>
 
 <body>
-<h2>Hello  en main World!</h2>
-<table class="table">
+<h2>Hello  en main World! cambiado por segunda vez</h2>
+<table class="table" id="la_tabla">
 	<thead>
 		<tr>
 			<th>id</th>
@@ -27,3 +27,11 @@
 </table>
 </body>
 </html>
+
+
+
+<style>
+#la_tabla{
+	width: 50%;
+}
+</style>
