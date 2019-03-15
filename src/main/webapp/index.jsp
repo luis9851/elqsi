@@ -34,7 +34,7 @@
          width="600"
          height="390">
     <h2>5.-Al terminar entaramos a cmd y ingresamos el comando echo %path% ... C:\apache-maven-3.5.0\apache-maven\src\bin para ver la salida de la version del apache</h2>
-        <img src="C:\Users\loera\Desktop\marketful\cmd.png"      
+        <img src="cmd.png"      
          width="600"
          height="390">
 
