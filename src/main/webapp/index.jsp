@@ -7,9 +7,10 @@
 
 <body style="background-color:#1AD5FD;">
 <div class="container">
-  <h1>COMO SUBIR SU PAGINA WEB A HEROKU </h1>
+  <h1>COMO INSTALAR MAVEN EN WINDOWS </h1>
     <h2>1.-Primer paso descargar maven de la pagina http://maven.apache.org/download.cgi 
-    <img src="C:\Users\loera\Desktop\marketful\maven.png"         width="600"
+    <img src="C:\Users\loera\Desktop\marketful\maven.png"         
+        width="600"
         height="390">
         <h2>2.-Segundo paso descomprimir el archivo y colocar la carpeta en la direccion C:\Program Files</h2>
     <img src="C:\Users\loera\Desktop\marketful\com.png"      
