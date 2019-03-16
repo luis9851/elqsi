@@ -69,7 +69,7 @@
         <img src="cmd.png"      
          width="600"
          height="390">
-
+    </div>
 </body>
 </html>
 <style>
