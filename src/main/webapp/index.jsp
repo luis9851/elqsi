@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<title>Ins_Maven</title>    
 <head>
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css ">
@@ -29,10 +30,10 @@
             <nav class="menu">
                 <ul>
                     <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Proyectos</a></li>
-                    <li><a href="#">Trabajos</a></li>
-                    <li><a href="#">Contacto</a></li>
+                    <li><a href="#">Maven</a></li>
+                    <li><a href="#">Gitbash</a></li>
+                    <li><a href="#">Github</a></li>
+                    <li><a href="#">Heroku</a></li>
                 </ul>
             </nav>
         </div>
