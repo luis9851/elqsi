@@ -30,10 +30,10 @@
             <nav class="menu">
                 <ul>
                     <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Maven</a></li>
-                    <li><a href="#">Gitbash</a></li>
-                    <li><a href="#">Github</a></li>
-                    <li><a href="#">Heroku</a></li>
+                    <li><a href="index.jsp">Maven</a></li>
+                    <li><a href="github.html">Github</a></li>
+                    <li><a href="Gitbash.html">Gitbash</a></li>
+                    <li><a href="heroku.html">Heroku</a></li>
                 </ul>
             </nav>
         </div>
