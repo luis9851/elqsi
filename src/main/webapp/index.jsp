@@ -24,7 +24,7 @@
         <div class="contenedor">
             <div class="logo">
                 <img src="logo.png" alt=""
-                width="150"
+                width="200"
                 height="150">
             </div>
             <nav class="menu">
