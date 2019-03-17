@@ -24,14 +24,13 @@
         <div class="contenedor">
             <div class="logo">
                 <img src="logo.png" alt=""
-                width="150"
+                width="200"
                 height="150">
             </div>
             <nav class="menu">
                 <ul>
-                    <li><a href="#">Inicio</a></li>
+                    <li><a href="menu.html">Inicio</a></li>
                     <li><a href="index.jsp">Maven</a></li>
-                    <li><a href="github.html">Github</a></li>
                     <li><a href="Gitbash.html">Gitbash</a></li>
                     <li><a href="heroku.html">Heroku</a></li>
                 </ul>
